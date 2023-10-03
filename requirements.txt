@@ -17,4 +17,4 @@ python-dateutil==2.8.1    # via botocore
 pyyaml==5.3.1             # via cfn-flip, cfripper (setup.py)
 s3transfer==0.3.3         # via boto3
 six==1.14.0               # via cfn-flip, python-dateutil
-urllib3==1.25.8           # via botocore
+urllib3==1.26.17           # via botocore
